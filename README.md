@@ -1,6 +1,7 @@
 # AI Applied to the Analysis of the Contracts of the Italian Public Administrations
 ## Ital-IA 2023: Convegno Nazionale CINI sull'Intelligenza Artificiale (Italian)
 
+The "images" folder contains full-size figures of the article.  
 The "pdf" folder contains the article.
 
 If you use it, please cite
